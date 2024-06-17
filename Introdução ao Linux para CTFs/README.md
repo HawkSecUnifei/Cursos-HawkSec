@@ -1,1 +1,20 @@
+# Desafios Minicurso: Introdução ao Linux para CTFs
+
+- [Obedient Cat](https://play.picoctf.org/practice/challenge/147?category=5&page=1)
+- [Wave a flag](https://play.picoctf.org/practice/challenge/170?category=5&page=1)
+- [Nice netcat…](https://play.picoctf.org/practice/challenge/156?category=5&page=1)
+- [Static ain't always noise](https://play.picoctf.org/practice/challenge/163?category=5&page=1)
+- [Tab, Tab, Attack](https://play.picoctf.org/practice/challenge/176?category=5&page=1)
+- [Super SSH](https://play.picoctf.org/practice/challenge/424?category=5&page=1)
+- [Magikarp Ground Mission](https://play.picoctf.org/practice/challenge/189?category=5&page=1)
+- [Time Machine](https://play.picoctf.org/practice/challenge/425?category=5&page=2)
+- [what's a net cat?](https://play.picoctf.org/practice/challenge/34?category=5&page=2)
+- [strings it](https://play.picoctf.org/practice/challenge/37?category=5&page=2)
+- [First Grep](https://play.picoctf.org/practice/challenge/85?category=5&page=2)
+- [chrono](https://play.picoctf.org/practice/challenge/347?category=5&page=3)
+- [Permissions](https://play.picoctf.org/practice/challenge/363?category=5&page=4)
+- [useless](https://play.picoctf.org/practice/challenge/384?category=5&page=4)
+- [plumbing](https://play.picoctf.org/practice/challenge/48?category=5&page=4)
+- [Special](https://play.picoctf.org/practice/challenge/377?category=5&page=4)
+- [Specialer](https://play.picoctf.org/practice/challenge/378?category=5&page=5)
 
